@@ -25,7 +25,7 @@
 <hr>
 
 <div > 
-<img align="left" width=50% src="https://github-readme-stats.vercel.app/api?username=yeemaae&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="yeemaae's Github stats" />
+<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=yeemaae&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="yeemaae's Github stats" />
   
-<img align="right" width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=yeemaae&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="yeemaae's Language stats" />
+<img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=yeemaae&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="yeemaae's Language stats" />
 </div>
