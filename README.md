@@ -3,7 +3,11 @@
 <h3 align="center">A passionate python developer from KZ</h3>
 <img align="right" alt='coding' width='200px' src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeemaae&label=Profile%20views&color=0e75b6&style=flat" alt="yeemaae" /> </p>
+<div align="left">
+   <img src="https://komarev.com/ghpvc/?username=yeemaae&label=Profile%20views&color=0e75b6&style=flat" alt="yeemaae" />
+   <img src="https://img.shields.io/github/followers/yeemaae?label=Follow&style=social" alt="yeemaae" /> 
+</div>
+
 
 - 🌱 I’m currently learning **and learning!**
 
