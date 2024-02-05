@@ -32,3 +32,7 @@
   <img align="right" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=yeemaae&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="yeemaae's Language stats" />
   <img width=55% src="https://github-readme-stats.vercel.app/api?username=yeemaae&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="yeemaae's Github stats" />
 </div>
+
+## 🤝 Let's Collaborate!
+
+If you have an interesting project or just want to connect, feel free to reach out. Let's build something amazing together! 🚀
