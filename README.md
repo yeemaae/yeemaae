@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://github.com/yeemaae)
-<h1 align="left">Hi 👋, I'm Yerassylbek Makhsatbekov</h1>
-<h3 align="left">A passionate python developer from KZ</h3>
+<h1 align="center">Hi 👋, I'm Yerassylbek Makhsatbekov</h1>
+<h3 align="center">A passionate python developer from KZ</h3>
 <img align="right" alt='coding' width='400px' src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeemaae&label=Profile%20views&color=0e75b6&style=flat" alt="yeemaae" /> </p>
