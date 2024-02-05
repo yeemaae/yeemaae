@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://github.com/yeemaae)
 <h1 align="center">Hi 👋, I'm Yerassylbek Makhsatbekov</h1>
 <h3 align="center">A passionate python developer from KZ</h3>
-<img align="right" alt='coding' width='400px' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt='coding' width='200px' src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeemaae&label=Profile%20views&color=0e75b6&style=flat" alt="yeemaae" /> </p>
 
