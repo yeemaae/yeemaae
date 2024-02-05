@@ -5,7 +5,7 @@
 
 <div align="left">
    <img src="https://komarev.com/ghpvc/?username=yeemaae&label=Profile%20views&color=0e75b6&style=flat" alt="yeemaae" />
-   <img src="https://img.shields.io/github/followers/yeemaae?label=Follow&style=social" alt="yeemaae" /> 
+   <img src="https://img.shields.io/github/followers/yeemaae?label=Follow&style=flat" alt="yeemaae" /> 
 </div>
 
 
